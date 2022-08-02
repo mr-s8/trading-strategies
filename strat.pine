@@ -1,4 +1,5 @@
 //@version=5
+//https://github.com/mr-s8
 
 strategy("ema+bb%b+adx+ao", overlay=true, initial_capital=1000, default_qty_value=10, default_qty_type= strategy.percent_of_equity)
 
