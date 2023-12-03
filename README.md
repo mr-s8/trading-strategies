@@ -3,4 +3,3 @@ I coded the strategy from this yt video: https://www.youtube.com/watch?v=cKuTSFw
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-you can also play with the parameters if u want
