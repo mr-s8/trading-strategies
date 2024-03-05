@@ -1,5 +1,6 @@
-# Pinescript---Strategy-from-yt-4emas-adx-bb-b-ao--6m-timeframe --ETH/USD
-I coded the strategy from this yt video: https://www.youtube.com/watch?v=cKuTSFwUpPE , which claims to have a win rate of 78%.  Its not that overpowered ofc but run the backtest yourself if you like -------- no financial advise, i wouldnt run this personally
+# Trading strategy for ETH/USD coded in Pinescript
 
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+I coded a trading strategy from some clickbait video on YouTube. It uses some Ema's, Bollinger Bands, Average Directional Index and the Awsome Oscillator
+Video Link: https://www.youtube.com/watch?v=cKuTSFwUpPE
+
 
