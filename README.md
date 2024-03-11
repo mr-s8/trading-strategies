@@ -1,6 +1,6 @@
 # trading-strategies
 
-A collection of trading strategies
+A collection of trading strategies, coded in pinescript.
 
 ## Screenshot
 <div align="center">
